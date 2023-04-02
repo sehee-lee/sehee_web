@@ -1,0 +1,13 @@
+{
+  "name": "Sehee Lee",
+  "email": "chadsehee@gmail.com",
+  "description": "",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

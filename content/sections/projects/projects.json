@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "💻 GPT",
+      "title": "Make your own GPT demo page using openAI api.",
+      "description": "Making simple Web Demo using OpenAI GPT-3 api.",
+      "tags": ["AI", "OPENAI", "GPT", "NodeJS"],
+      "image": {
+        "src": "../../images/ChatGPT_logo.png",
+        "alt": "GPT Demo",
+        "linkTo": "https://github.com/sehee-lee/gpt_demo"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/sehee-lee/gpt_demo"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+  }
+}

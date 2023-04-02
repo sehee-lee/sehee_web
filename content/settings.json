@@ -1,0 +1,38 @@
+{
+  "siteMetadata": {
+    "language": "ko",
+    "siteUrl": "https://seheelee.com",
+    "title": "Personal web page.",
+    "description": "",
+    "author": "Sehee Lee",
+    "avatar": "../content/images/sehee.jpeg",
+    "bio": "Search Service Developer in Kakao Enterprise.",
+    "social": {
+      "github": "https://github.com/sehee-lee",
+      "linkedin": "https://www.linkedin.com/in/sehee-lee-665706129",
+      "mail": "mailto:chadsehee@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Sehee Lee" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Github", "url": "https://github.com/sehee-lee" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

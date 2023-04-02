@@ -1,0 +1,18 @@
+{
+  "intro": "Hello",
+  "image": {
+    "src": "../../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a full-stack software developer.",
+  "subtitle": {
+    "prefix": "research and develop ",
+    "highlight": "Search, Machine Learning, AI, and Data Science",
+    "suffix": "."
+  },
+  "description": "",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}
