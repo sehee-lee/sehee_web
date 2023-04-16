@@ -15,7 +15,7 @@ export default function IndexPage() {
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Portfolio Minimal" />
         {/*<InterestsSection sectionId="details" heading="Details" />*/}
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
+        <ProjectsSection sectionId="features" heading="Project" />
       </Page>
     </>
   );
