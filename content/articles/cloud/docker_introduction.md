@@ -5,10 +5,10 @@ banner:
   src: "images/Docker-Logo.png"
   alt: "What is Docker?"
 categories:
-  - "Cloud"
-  - "docker"
+  - "cloud"
+  - "develop"
 keywords:
-  - "Cloud"
+  - "cloud"
   - "docker"
 ---
 
