@@ -17,7 +17,7 @@ Docker의 기본적인 개념은, OS Level의 가상화 기술을 활용하여 c
 
 여기서 중요하게 볼 부분은 container 라는 부분입니다. docker의 log를 보면 고래가 정사각형 모양의 상자(컨테이너)를 싣고 있는 것을 볼 수 있는데요. 이 로고가 사실상 docker의 개념을 잘 표현하고 있습니다.
 
-![](images/Docker-Logo.png)
+![](images/docker.png)
 
 이 로고처럼 Docker(고래)는 경량화된 소프트웨어 패키지(container)를 모아서 사용자가 어떤 환경에서든지 동일한 경험이 가능하도록 해주고 있습니다. 그래서 Docker는 여러 환경에서의 배포 역시 매우 간단하게 만들어줍니다.
 
