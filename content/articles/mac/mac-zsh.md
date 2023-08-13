@@ -5,7 +5,6 @@ banner:
   src: "images/apple_logo.png"
   alt: "zsh setting for mac"
 categories:
-  - "mac"
   - "tip"
 keywords:
   - "mac"

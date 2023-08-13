@@ -5,7 +5,6 @@ banner:
   src: "images/apple_logo.png"
   alt: "xcurn error"
 categories:
-  - "mac"
   - "tip"
 keywords:
   - "mac"

@@ -5,7 +5,7 @@ banner:
   src: "images/graphql-logo.png"
   alt: "GraphQL API Server"
 categories:
-  - "GraphQL"
+  - "develop"
 keywords:
   - "GraphQL"
 ---

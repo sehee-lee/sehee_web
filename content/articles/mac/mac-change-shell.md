@@ -5,7 +5,6 @@ banner:
   src: "images/macos_catalina.png"
   alt: "How to change default shell at mac."
 categories:
-  - "mac"
   - "tip"
 keywords:
   - "mac"

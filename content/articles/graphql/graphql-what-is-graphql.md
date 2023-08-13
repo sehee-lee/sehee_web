@@ -5,7 +5,7 @@ banner:
   src: "images/graphql-logo.png"
   alt: "What is GraphQL?"
 categories:
-  - "GraphQL"
+  - "develop"
 keywords:
   - "GraphQL"
 ---
